@@ -1,5 +1,12 @@
 # 此项目已暂停开发
 
+#Esview是一款拖拽组件生成vue代码的工具。
+#包含拖拽生成页面、页面管理、组件管理等功能。
+#前端采用vue和iview，生成的代码必须安装vue和iview才能使用，
+#后台采用java（springboot）作为持久层，保存生成的页面、创建的组件。
+
+#编译报错 [参考连接](https://blog.csdn.net/phlr5/article/details/83780628)
+
 <p align="right">
   <a href="https://github.com/furioussoul/soul-esview/blob/master/ui/README-ch.md">中文</a>
 </p>
